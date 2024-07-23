@@ -1,5 +1,5 @@
 <p align="center"><samp>
-  Hi, Nate is Here
+  Hi...
 </samp>
 </p>
 
