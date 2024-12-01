@@ -39,7 +39,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NateNats/NateNats/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/NateNats/NateNats/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
