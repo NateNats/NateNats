@@ -1,4 +1,4 @@
-<p align="center">Hi.... Welcome to my repo</p>
+<p align="center">Hi....</p>
 
 ###
 
