@@ -1,25 +1,131 @@
-<p align="center">Hi....</p>
 <div align="center">
-  <div align="center">
-    <img src="money anime gif.gif">
-  </div>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NateNats&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NateNats&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
+
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7A046&center=true&vCenter=true&width=600&lines=Hello%2C+World.;ONE+LINE+OF+CODE+AT+A+TIME;Nicolaus+Reva+Sagraha" alt="Typing SVG" /> -->
+
 </div>
 
-# Hi 👋, I'm Nicolaus Reva
+<div align="center">
+  <img src="money anime gif.gif" width="420">
+</div>
 
-### An experienced Jupyter notebook developer
+<br>
 
-- 🌱 I'm currently learning **DevOps Engineer**
+<h1 align="center">Hi 👋, I'm Nicolaus Reva Sagraha</h1>
+<h3 align="center">Informatics Student @ Sanata Dharma University</h3>
 
-- 👨‍💻 All of my projects are available at **[https://reva-web-porto.vercel.app/](https://reva-web-porto.vercel.app/)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/NateNats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="NateNats" height="30" width="40" /></a>
+<p align="center">
+An Informatics student with a passion for learning and building things with technology —
+across web development, mobile apps, and machine learning. Comfortable working in a
+Linux (Arch) environment. Always exploring new tools and frameworks to grow as a
+well-rounded software developer.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/codeigniter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/openresty" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="openresty" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+<p align="center">
+  🌱 Currently learning <b>Transformer Architecture</b>, <b>Cloud Computing</b> &amp; <b>DevOps Systems</b><br>
+  👨‍💻 All of my projects are available at <a href="https://reva-web-porto.vercel.app/"><b>reva-web-porto.vercel.app</b></a>
+</p>
 
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=F7A046)](https://reva-web-porto.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/nicolausreva)
+  [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/nicolarevaa)
+  [![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:nicolaussagraha14@gmail.com)
+
+</div>
+
+---
+
+### 🧩 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|---|---|
+| 🐾 **[Mobile AI: Cat & Dog Classifier](https://reva-web-porto.vercel.app/)** | On-device, offline image classification Android app using a pre-trained ML model for low-latency inference. |
+| ❌⭕ **[Tic-Tac-Toe AI Agent](https://reva-web-porto.vercel.app/)** | Minimax-powered agent for a web Tic-Tac-Toe game, with Flask handling game state & decisions. |
+| 🩺 **[Skripsi: Hair Removal Preprocessing for U-Net](https://reva-web-porto.vercel.app/)** | Research on how digital hair-removal preprocessing affects U-Net performance on skin lesion segmentation. |
+| 📚 **[Learnify — E-Learning Platform](https://reva-web-porto.vercel.app/)** | Full-stack e-learning platform built with Laravel 11, TailwindCSS, and PostgreSQL. |
+| 🧠 **[P2TKP — Psychology Test App](https://reva-web-porto.vercel.app/)** | Standalone Java desktop app automating interpretation & summarization of psychological test results. |
+| 🏺 **Digital Puppet Museum** | *Work in progress...* |
+
+</div>
+
+---
+
+### 🛠️ My Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,html,css,js,flask,pytorch,tensorflow,linux,git,vscode,java,laravel,postgres&theme=dark" />
+</p>
+
+### 🧰 Languages & Tools
+
+<p align="left">
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=blender" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=django" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=illustrator" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=laravel" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=php" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=scikitlearn" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/></a>
+<a href="#" target="blank"><img src="https://skillicons.dev/icons?i=unity" width="40" height="40"/></a>
+</p>
+
+---
+### 
+📈 Contribution Graph
+
+<div align="center">
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NateNats&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="contribution graph" /> </div> <div align="center">
+
+</div>
+
+---
+
+
+<!-- <div align="center"> -->
+<!-- Ganti "USER_ID" di bawah dengan uid unikmu dari https://spotify-github-profile.vercel.app/api/login -->
+<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=USER_ID&redirect=true&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="450" alt="Spotify now playing" /> -->
+<!-- </div> -->
+
+
+
+<p align="center"><i>"Always a student."</i></p>
+
+<p align="center">
+  <sub>© 2026 Nicolaus Reva Sagraha — built one line of code at a time.</sub>
+</p>
